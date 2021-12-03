@@ -1,0 +1,6 @@
+{
+  "parent": "galvanicpolymer",
+  "textures": {
+    "all": "omnitrixmod:assets/textures/item/galvanicpolymer.png"
+  }
+}
